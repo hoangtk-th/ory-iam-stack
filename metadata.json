@@ -1,0 +1,5 @@
+{
+  "name": "Ory IAM Unified Portal",
+  "description": "A comprehensive Identity and Access Management portal demonstrating the Ory ecosystem (Kratos, Keto, Oathkeeper, Hydra) integration for GPass and ProPass applications.",
+  "requestFramePermissions": []
+}
